@@ -1,0 +1,11 @@
+# Secrets - never commit these
+.env*
+
+# Node auto-generated
+node_modules/
+
+# OS junk
+.DS_Store
+
+# Logs
+*.log
