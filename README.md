@@ -2,11 +2,6 @@
 
 A self-hosted dashboard that brings production errors from multiple monitoring tools into one place, removes duplicates, sorts them by priority, and lets a QA/engineering team track each error through its lifecycle. Built to replace the manual work of checking each error source separately and scrolling through noisy alert channels.
 
-**Live demo:** https://your-demo-link.vercel.app
-*(Login is restricted to a single company domain. For the demo, the dashboard is loaded with sample/fake data.)*
-
----
-
 ## The Problem
 
 In most teams, production errors are scattered and noisy:
